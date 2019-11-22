@@ -1,0 +1,49 @@
+body{
+	margin-top: 100px;
+	background-image: url(../../img/bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0 -100px;
+}
+a{
+	color: blue;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+a:hover{
+	text-decoration: none;
+}
+ul li a{
+	font-size: 13px;
+}
+ul li a:hover{
+	border-bottom: 1px solid blue;
+}
+table{
+	background-color: white;
+}
+table th{
+	padding: 10px 15px;
+	text-align: center;
+	background-color: lightblue;
+}
+h3{
+	font-weight: bold;
+}
+table td{
+	padding: 5px 10px;
+	text-align: center;
+}
+#kelas{
+	padding: 0px 20px;
+}
+.search{
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	border-top-left-radius: 30px;
+}
+#search{
+	margin-right: 15px;
+}

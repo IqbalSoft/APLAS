@@ -1,0 +1,21 @@
+body{
+	margin-top: 70px;
+	background-image: url(../../img/login.jpg);
+	background-size: cover;
+	background-position: 0 -170px;
+}
+hr{
+	border: 1px solid #aeaeae;
+	width: 120px;
+}
+.thumbnail{
+	margin-top: 20px;
+	padding: 20px;
+}
+#home{
+	font-weight: bold;
+	font-family: Century Schoolbook;
+}
+#home:hover{
+	text-decoration: none;
+}
